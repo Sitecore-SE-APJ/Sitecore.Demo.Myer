@@ -1,0 +1,48 @@
+﻿---
+ID: "06267f14-94d3-4950-beb4-15655cb0cb45"
+Parent: "0456e8e1-b9d3-431d-8b1d-5b6f0add2db2"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/Verticals/Services/Presentation/Page Branches/Landing Pages/Marketing Landing Page/$name/Data/Text 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p>Ability to put themselves in the merchant's shoes. It is meant to partner on the long run, and work as an extension of the merchant's team. A digital agency is a business you hire to outsource your digital marketing efforts, instead of handling in-house.&nbsp;</p><p>They can provide your business with a variety of digital solutions to promote your product or service online and help you.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b9799b35-f64a-4806-b608-b9a6c0dcff75"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p>Ability to put themselves in the merchant's shoes. It is meant to partner on the long run, and work as an extension of the merchant's team. A digital agency is a business you hire to outsource your digital marketing efforts, instead of handling in-house.&nbsp;</p><p>They can provide your business with a variety of digital solutions to promote your product or service online and help you.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b4045a2f-4d84-4184-b150-79d7a643c89b"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p>Ability to put themselves in the merchant's shoes. It is meant to partner on the long run, and work as an extension of the merchant's team. A digital agency is a business you hire to outsource your digital marketing efforts, instead of handling in-house.&nbsp;</p><p>They can provide your business with a variety of digital solutions to promote your product or service online and help you.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b4045a2f-4d84-4184-b150-79d7a643c89b"

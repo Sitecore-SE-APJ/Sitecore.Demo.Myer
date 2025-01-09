@@ -1,0 +1,47 @@
+﻿---
+ID: "4b8127e7-174c-41d9-b3c7-aff753679e67"
+Parent: "a0eef70a-7b94-4d88-a8f6-84b4cc41890b"
+Template: "0089bcb3-0117-43f2-a760-0771d5ff7417"
+Path: /sitecore/content/Verticals/Services/Presentation/Page Branches/Landing Pages/Simple Landing Page/$name/Data/HeroBanner 1
+SharedFields:
+- ID: "5a8416e1-a058-47d2-96df-69d2a08e69fc"
+  Hint: Image
+  Value: |
+    <image mediaid="e74e0623-a9ff-4833-9968-14d55a05db5f" />
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DECAB550-F5C3-4B5F-8152-8AFEE86EFADD}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e25a144-5899-4c7e-b0b8-d7209cd76d27"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p>Play! Agency provides a full service range including technical skills, design, business understanding.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1acf0839-6711-4539-aed2-9775bb9ffe7f"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e25a144-5899-4c7e-b0b8-d7209cd76d27"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p>Play! Agency provides a full service range including technical skills, design, business understanding.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49395a25-f017-4834-81c1-c95831212cc0"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e25a144-5899-4c7e-b0b8-d7209cd76d27"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p>Play! Agency provides a full service range including technical skills, design, business understanding.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49395a25-f017-4834-81c1-c95831212cc0"

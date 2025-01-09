@@ -1,0 +1,13 @@
+﻿---
+ID: "f38771cc-a114-4478-a2ba-45ebc7f189f0"
+Parent: "371a2a95-f360-49d8-9a51-c88c0257363f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Verticals/Pages/Marketing Landing Page/Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "51d4c02a-806d-49b6-a6c6-fc0897c1b7a4"

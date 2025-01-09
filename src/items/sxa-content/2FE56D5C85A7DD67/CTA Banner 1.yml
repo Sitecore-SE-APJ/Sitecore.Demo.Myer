@@ -1,0 +1,27 @@
+﻿---
+ID: "d4679c7f-2ad0-4579-b483-981467209b11"
+Parent: "0456e8e1-b9d3-431d-8b1d-5b6f0add2db2"
+Template: "4900d7e5-61b0-483a-a9d6-69419d4d5982"
+Path: /sitecore/content/Verticals/Services/Presentation/Page Branches/Landing Pages/Marketing Landing Page/$name/Data/CTA Banner 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d89a52ea-70df-4bac-a55d-f56c97f83c9e"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "96b3dff0-9f98-40ea-b918-344f2ceeb01e"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "96b3dff0-9f98-40ea-b918-344f2ceeb01e"

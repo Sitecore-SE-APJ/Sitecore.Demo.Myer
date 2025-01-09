@@ -6,7 +6,11 @@ Path: /sitecore/templates/Project/Verticals/Pages/Content Page/__Standard Values
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
-  Value: 
+  Value: |
+    {1226C3C7-2D1F-48F5-87B4-C1DA459F05E5}
+    {39E98970-D52A-4DDB-9274-FC540A03CFBD}
+    {371A2A95-F360-49D8-9A51-C88C0257363F}
+    {FAD2E2BB-B255-4B1D-B5DD-D59B83727070}
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: 
@@ -23,4 +27,4 @@ Languages:
       Value: $name
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0e4fea47-2da4-419b-a777-7cef5b32c7ff"
+      Value: "31de4388-156a-4d05-b872-a17e44039743"

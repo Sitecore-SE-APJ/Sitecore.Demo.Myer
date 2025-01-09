@@ -1,0 +1,17 @@
+﻿---
+ID: "4d936669-8374-4411-9491-f28a4f831fac"
+Parent: "71c09d45-a21e-49bc-83fd-e13cf3904eb8"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: /sitecore/content/Verticals/Services/Presentation/Page Designs/Myer/Landing Page
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "44d70a2a-58a8-42ca-a74f-c5b7d57819dc|d2e7e32d-98d4-46ea-b6dd-d96be01c0bc3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d8256bc-4ef6-4739-9714-ea107055c012"

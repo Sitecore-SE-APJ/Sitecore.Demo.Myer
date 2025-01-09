@@ -1,0 +1,26 @@
+﻿---
+ID: "aa4a9f65-9858-4af7-b169-f27890f24f46"
+Parent: "fad2e2bb-b255-4b1d-b5dd-d59b83727070"
+Template: "fad2e2bb-b255-4b1d-b5dd-d59b83727070"
+Path: /sitecore/templates/Project/Verticals/Pages/Micks Marketing Landing Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: 
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{E9B6C600-C6E8-4867-BCB7-8B0DC5F19840}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "813cc0d1-f53b-4225-bc61-8926eac07860"
+    - ID: "bd52356a-393e-46d7-be43-c4dea5047cbd"
+      Hint: Title
+      Value: $name

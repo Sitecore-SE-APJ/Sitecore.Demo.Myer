@@ -1,0 +1,71 @@
+﻿---
+ID: "3eb55e49-2e9d-48a8-8242-25706d26e6e5"
+Parent: "0456e8e1-b9d3-431d-8b1d-5b6f0add2db2"
+Template: "0089bcb3-0117-43f2-a760-0771d5ff7417"
+Path: /sitecore/content/Verticals/Services/Presentation/Page Branches/Landing Pages/Marketing Landing Page/$name/Data/HeroBanner 1
+SharedFields:
+- ID: "5a8416e1-a058-47d2-96df-69d2a08e69fc"
+  Hint: Image
+  Value: |
+    <image mediaid="e74e0623-a9ff-4833-9968-14d55a05db5f" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1e25a144-5899-4c7e-b0b8-d7209cd76d27"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p>Play! Agency provides a full service range including technical skills, design, business understanding.</p></div>
+    - ID: "27b909fd-63d0-4f13-b449-fa185536d493"
+      Hint: Tagline
+      Value: marketing landing page
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb833a0f-ba63-4c5d-8b7b-72260bcdc5af"
+    - ID: "e91adc46-b038-4092-bc72-afd5ec708db5"
+      Hint: Title
+      Value: Landing page marketing title
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1e25a144-5899-4c7e-b0b8-d7209cd76d27"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p>Play! Agency provides a full service range including technical skills, design, business understanding.</p></div>
+    - ID: "27b909fd-63d0-4f13-b449-fa185536d493"
+      Hint: Tagline
+      Value: marketing landing page
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aad749da-6e24-481c-9268-2a3d54a4a3f5"
+    - ID: "e91adc46-b038-4092-bc72-afd5ec708db5"
+      Hint: Title
+      Value: Landing page marketing title
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1e25a144-5899-4c7e-b0b8-d7209cd76d27"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p>Play! Agency provides a full service range including technical skills, design, business understanding.</p></div>
+    - ID: "27b909fd-63d0-4f13-b449-fa185536d493"
+      Hint: Tagline
+      Value: marketing landing page
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aad749da-6e24-481c-9268-2a3d54a4a3f5"
+    - ID: "e91adc46-b038-4092-bc72-afd5ec708db5"
+      Hint: Title
+      Value: Landing page marketing title

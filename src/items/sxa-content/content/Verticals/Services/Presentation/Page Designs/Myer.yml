@@ -1,0 +1,13 @@
+﻿---
+ID: "71c09d45-a21e-49bc-83fd-e13cf3904eb8"
+Parent: "3a1307a3-86aa-45a3-9537-c6fa71569c24"
+Template: "3030339a-2efe-4fca-aebb-f84de5c0f2eb"
+Path: /sitecore/content/Verticals/Services/Presentation/Page Designs/Myer
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "99dbb855-16cc-4b2d-8699-58064b96b9fe"

@@ -1,0 +1,44 @@
+﻿---
+ID: "a8550d00-8c07-46b8-942d-6a704351a7ce"
+Parent: "1de1dc5e-65d6-446a-ba34-df032cf3b49c"
+Template: "d885df8c-b2d6-4007-b34b-2bbafb527304"
+Path: /sitecore/content/Verticals/Services/Presentation/Page Branches/Landing Pages/Marketing Landing Page/$name/Data/Image Gallery 1/Image 2
+BranchID: "373c596c-ef71-41be-9c6c-348ae3c40cf5"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{6C3FEF61-3A5C-40D8-AC5B-5A85D7965AFD}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
+      Hint: Image
+      Value: |
+        <image mediaid="{E74E0623-A9FF-4833-9968-14D55A05DB5F}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d2001659-fb05-4a66-92fa-3ed5727538fa"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
+      Hint: Image
+      Value: |
+        <image mediaid="{E74E0623-A9FF-4833-9968-14D55A05DB5F}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75b65422-f87e-48ef-ab4e-19e79b9380e5"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
+      Hint: Image
+      Value: |
+        <image mediaid="{E74E0623-A9FF-4833-9968-14D55A05DB5F}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75b65422-f87e-48ef-ab4e-19e79b9380e5"

@@ -1,0 +1,32 @@
+﻿---
+ID: "80e9c535-12e5-481a-bdf2-e327225655d3"
+Parent: "0456e8e1-b9d3-431d-8b1d-5b6f0add2db2"
+Template: "fae81bf9-1117-4f97-9133-00e752f41772"
+Path: /sitecore/content/Verticals/Services/Presentation/Page Branches/Landing Pages/Marketing Landing Page/$name/Data/Questions 1
+BranchID: "bba2c8f4-b940-4820-bf71-1b089bc5f86a"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{C018CF92-1701-4C31-B9BB-A6B245852225}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1af882bc-8f3b-4676-be16-86c4e0239447"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a170835-faae-4c3c-b810-b53312e4885a"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a170835-faae-4c3c-b810-b53312e4885a"

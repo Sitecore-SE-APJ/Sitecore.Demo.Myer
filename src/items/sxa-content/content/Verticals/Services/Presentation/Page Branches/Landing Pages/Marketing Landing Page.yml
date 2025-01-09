@@ -1,0 +1,18 @@
+﻿---
+ID: "e20d83db-7cf6-4d84-97e4-bc6bc4311bd1"
+Parent: "4bd97c84-f37f-4287-8b72-fa6650ef0bc1"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/content/Verticals/Services/Presentation/Page Branches/Landing Pages/Marketing Landing Page
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{9F8A1972-1383-41A6-95F8-322902EBB748}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "decc4ed8-8453-4658-a52c-28a3cee19833"

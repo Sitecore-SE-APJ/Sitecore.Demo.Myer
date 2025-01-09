@@ -1,0 +1,63 @@
+﻿---
+ID: "08647af4-74b4-4d47-b0fa-150df5c43919"
+Parent: "0456e8e1-b9d3-431d-8b1d-5b6f0add2db2"
+Template: "fa136527-6302-471d-83ab-e66fc72bda99"
+Path: /sitecore/content/Verticals/Services/Presentation/Page Branches/Landing Pages/Marketing Landing Page/$name/Data/Heading CTA 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01f80a59-f33f-49e7-a03e-1ac1c75e228d"
+    - ID: "bbd90ce3-fdf4-425e-844b-63c5b3db8916"
+      Hint: Text
+      Value: "A digital agency is a business you hire to outsource your digital marketing efforts, instead of handling in-house."
+    - ID: "cef85d28-d6bc-4204-a2e4-8706c80d8a3c"
+      Hint: Heading
+      Value: Frequently asked questions
+    - ID: "ee323ed7-4732-4a64-a008-18df97dc0737"
+      Hint: Eyebrow
+      Value: FAQ
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b874fa8e-3c8c-4769-9627-5a39e98603de"
+    - ID: "bbd90ce3-fdf4-425e-844b-63c5b3db8916"
+      Hint: Text
+      Value: "A digital agency is a business you hire to outsource your digital marketing efforts, instead of handling in-house."
+    - ID: "cef85d28-d6bc-4204-a2e4-8706c80d8a3c"
+      Hint: Heading
+      Value: Frequently asked questions
+    - ID: "ee323ed7-4732-4a64-a008-18df97dc0737"
+      Hint: Eyebrow
+      Value: FAQ
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b874fa8e-3c8c-4769-9627-5a39e98603de"
+    - ID: "bbd90ce3-fdf4-425e-844b-63c5b3db8916"
+      Hint: Text
+      Value: "A digital agency is a business you hire to outsource your digital marketing efforts, instead of handling in-house."
+    - ID: "cef85d28-d6bc-4204-a2e4-8706c80d8a3c"
+      Hint: Heading
+      Value: Frequently asked questions
+    - ID: "ee323ed7-4732-4a64-a008-18df97dc0737"
+      Hint: Eyebrow
+      Value: FAQ

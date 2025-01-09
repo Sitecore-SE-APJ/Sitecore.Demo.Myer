@@ -1,0 +1,49 @@
+﻿---
+ID: "4bd97c84-f37f-4287-8b72-fa6650ef0bc1"
+Parent: "c752b0d9-d6f3-4003-afcc-af5ba592de36"
+Template: "fbc802e5-4b9e-480f-93da-3f2a80cae5cb"
+Path: /sitecore/content/Verticals/Services/Presentation/Page Branches/Landing Pages
+SharedFields:
+- ID: "bb3391dd-f8be-4b2e-ae9f-47bb63c166ce"
+  Hint: Rule
+  Value: |
+    <ruleset>
+      <rule
+        uid="{C1C567F6-0224-4A83-A7C7-48E09297102D}">
+        <conditions>
+          <condition
+            id="{7D5DA661-BEF9-441C-B1F7-D80DE3E0972F}"
+            uid="39A7CA2F24B244D7ABAA536A68326BD7"
+            itemid="{6ABD44E0-5A6C-4050-A8A8-09C117EA6DDB}" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="2A4D46187A794D90A9A3A815FBD3F66A"
+            PageBranchId="{67689C8F-B1FB-4902-A51D-9C3AD530C7FA}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{0994A10E-72CC-4276-9A4C-65A41A5809D2}">
+        <conditions>
+          <condition
+            id="{7D5DA661-BEF9-441C-B1F7-D80DE3E0972F}"
+            uid="7FF20FDADFF8460BAE81946584AB404D"
+            itemid="{6ABD44E0-5A6C-4050-A8A8-09C117EA6DDB}" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="04826CB8346B4029B21CEABDBDF0CAF8"
+            PageBranchId="{E20D83DB-7CF6-4D84-97E4-BC6BC4311BD1}" />
+        </actions>
+      </rule>
+    </ruleset>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8470842a-44f0-47da-8e80-5a8a81f3166f"

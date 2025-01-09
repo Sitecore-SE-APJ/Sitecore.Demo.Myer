@@ -1,0 +1,13 @@
+﻿---
+ID: "6d8f922b-2a1e-4585-bfd6-801914b6694a"
+Parent: "fad2e2bb-b255-4b1d-b5dd-d59b83727070"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Verticals/Pages/Micks Marketing Landing Page/Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "03987bb0-6270-43a3-b261-c22f259763de"

@@ -1,0 +1,108 @@
+﻿---
+ID: "bcef093c-003e-44d0-86c9-f219ce071bc5"
+Parent: "0456e8e1-b9d3-431d-8b1d-5b6f0add2db2"
+Template: "3b41d9fc-0edf-48e1-966c-e260339ba815"
+Path: /sitecore/content/Verticals/Services/Presentation/Page Branches/Landing Pages/Marketing Landing Page/$name/Data/Five Column CTA 1
+SharedFields:
+- ID: "3b0a6484-9ce0-4386-b2b3-5792c0db7b72"
+  Hint: Image3
+  Value: |
+    <image mediaid="9d050fdf-42de-4290-b9ce-67c020f31822" />
+- ID: "4301130a-505e-4a6d-ba47-f783d47a1750"
+  Hint: Image2
+  Value: |
+    <image mediaid="be5d7615-900b-467b-ad19-58a3907e43ee" />
+- ID: "c5d0b517-0ed6-4cd4-9354-8adf7a04bc7d"
+  Hint: Image4
+  Value: |
+    <image mediaid="f7988bda-29eb-41f1-94fa-f07e35e0b5d5" />
+- ID: "df3b6320-8a59-49d6-98a6-917ba4a400cf"
+  Hint: Image5
+  Value: |
+    <image mediaid="b0cfd28b-88f7-4f0f-95ff-62490d44029e" />
+- ID: "f762ad0b-e486-48ca-acb3-d8523551a990"
+  Hint: Image1
+  Value: |
+    <image mediaid="d43716fe-5c3a-422b-a49a-1e0cc584545f" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d581533-1aa5-4679-9e2a-e7fe765218ba"
+      Hint: Link3
+      Value: |
+        <link text=" " linktype="external" url="https://logoipsum.com/" anchor="" target="" />
+    - ID: "2490d428-27e2-4daa-8337-4e34f37fc26b"
+      Hint: Link2
+      Value: |
+        <link text=" " linktype="external" url="https://logoipsum.com/" anchor="" target="" />
+    - ID: "41910271-6970-45e7-8819-3d531826d4a6"
+      Hint: Link5
+      Value: |
+        <link text=" " linktype="external" url="https://logoipsum.com/" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cbe28b80-9fba-499b-950f-c54748ea9af3"
+    - ID: "b867909f-d20c-4c76-b82f-778d25239cd1"
+      Hint: Link1
+      Value: |
+        <link linktype="external" url="https://logoipsum.com/" anchor="" target="" />
+    - ID: "b8b8fa51-0c41-442e-8757-07b7a59d6d3f"
+      Hint: Link4
+      Value: |
+        <link text=" " linktype="external" url="https://logoipsum.com/" anchor="" target="" />
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d581533-1aa5-4679-9e2a-e7fe765218ba"
+      Hint: Link3
+      Value: |
+        <link text=" " linktype="external" url="https://logoipsum.com/" anchor="" target="" />
+    - ID: "2490d428-27e2-4daa-8337-4e34f37fc26b"
+      Hint: Link2
+      Value: |
+        <link text=" " linktype="external" url="https://logoipsum.com/" anchor="" target="" />
+    - ID: "41910271-6970-45e7-8819-3d531826d4a6"
+      Hint: Link5
+      Value: |
+        <link text=" " linktype="external" url="https://logoipsum.com/" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3343188-bf94-4af3-a453-43710b6509a3"
+    - ID: "b867909f-d20c-4c76-b82f-778d25239cd1"
+      Hint: Link1
+      Value: |
+        <link linktype="external" url="https://logoipsum.com/" anchor="" target="" />
+    - ID: "b8b8fa51-0c41-442e-8757-07b7a59d6d3f"
+      Hint: Link4
+      Value: |
+        <link text=" " linktype="external" url="https://logoipsum.com/" anchor="" target="" />
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d581533-1aa5-4679-9e2a-e7fe765218ba"
+      Hint: Link3
+      Value: |
+        <link text=" " linktype="external" url="https://logoipsum.com/" anchor="" target="" />
+    - ID: "2490d428-27e2-4daa-8337-4e34f37fc26b"
+      Hint: Link2
+      Value: |
+        <link text=" " linktype="external" url="https://logoipsum.com/" anchor="" target="" />
+    - ID: "41910271-6970-45e7-8819-3d531826d4a6"
+      Hint: Link5
+      Value: |
+        <link text=" " linktype="external" url="https://logoipsum.com/" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3343188-bf94-4af3-a453-43710b6509a3"
+    - ID: "b867909f-d20c-4c76-b82f-778d25239cd1"
+      Hint: Link1
+      Value: |
+        <link linktype="external" url="https://logoipsum.com/" anchor="" target="" />
+    - ID: "b8b8fa51-0c41-442e-8757-07b7a59d6d3f"
+      Hint: Link4
+      Value: |
+        <link text=" " linktype="external" url="https://logoipsum.com/" anchor="" target="" />

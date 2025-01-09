@@ -1,0 +1,23 @@
+﻿---
+ID: "e9b86d0a-ab88-4e3a-9681-c49a279e8e17"
+Parent: "6d8f922b-2a1e-4585-bfd6-801914b6694a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Verticals/Pages/Micks Marketing Landing Page/Content/BackgroundImage
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Image
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "be351a73-fcb0-4213-93fa-c302d8ab4f51"
+  Hint: Shared
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "023ab2c7-e5d9-48b5-81f0-7897b6d631d9"

@@ -6,7 +6,7 @@ Path: "/sitecore/content/Verticals/Services/Home/landing-pages"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
-  Value: "{3458C2E1-2579-4F4D-B5A7-695336ED09D6}"
+  Value: 
 - ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
   Hint: NavigationFilter
   Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
@@ -67,4 +67,4 @@ Languages:
       Value: Landing pages
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0616585f-7180-427f-af1a-2adc186f5825"
+      Value: "752b2798-8b06-410d-832e-0b9c8f1ec5c4"
