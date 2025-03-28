@@ -1,0 +1,27 @@
+﻿---
+ID: "b30b0d8e-58b3-4eb9-add9-3020a8a5404f"
+Parent: "b600b9fa-956e-4824-9e2d-f9c71c02aa52"
+Template: "4900d7e5-61b0-483a-a9d6-69419d4d5982"
+Path: /sitecore/content/Verticals/Services/Home/Data/CTA Banner 2_var2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "34c7ca9b-6c24-4133-bd83-b453b838eb0b"
+      Hint: Link
+      Value: |
+        <link text="View our work" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{FFEA8CA4-CF8C-453A-9F7D-49D6E60EEA5D}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "844da211-5cd2-4b56-a771-e7af876e9f18"
+    - ID: "b03c10d8-11a2-48ca-9822-3640768ed2b7"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p>PLAY! Services is a full-service digital agency that has the experience to make aaa difference.</p></div>
+    - ID: "e62af488-48ce-4ae4-a2bb-37ad346981a4"
+      Hint: Title
+      Value: We’ll help you build your dream project

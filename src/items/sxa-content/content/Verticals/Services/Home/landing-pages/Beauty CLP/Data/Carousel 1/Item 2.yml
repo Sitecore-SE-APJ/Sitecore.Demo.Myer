@@ -1,0 +1,18 @@
+﻿---
+ID: "4e588467-23f3-4db5-861d-de1e89746f1b"
+Parent: "a03f4e2e-321c-4af4-80b2-14d8b5155900"
+Template: "54db209d-cd0f-49d9-ae4e-ecb65d72cc4d"
+Path: "/sitecore/content/Verticals/Services/Home/landing-pages/Beauty CLP/Data/Carousel 1/Item 2"
+BranchID: "ce40209e-3961-4d15-871f-d959ef53797e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{CB114B74-26D0-4778-A62E-F27877DED2D5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "48498d6a-588e-4094-a5cb-27cc290aad06"

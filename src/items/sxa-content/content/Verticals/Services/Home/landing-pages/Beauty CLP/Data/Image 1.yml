@@ -1,0 +1,13 @@
+﻿---
+ID: "3c9a3dec-ecf5-4834-afd0-9409869ab561"
+Parent: "4ef43bb6-d2d0-4514-bed1-4c0e5ca3b9a0"
+Template: "d885df8c-b2d6-4007-b34b-2bbafb527304"
+Path: "/sitecore/content/Verticals/Services/Home/landing-pages/Beauty CLP/Data/Image 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cec34b4e-bdf9-465f-bac1-e4f323f3e87a"

@@ -1,0 +1,13 @@
+﻿---
+ID: "becfc2cc-5dd1-4ab7-ac97-2818977147dc"
+Parent: "d4fdcd3e-48d7-4531-91e4-62e94d9c28cf"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/Services/Home/landing-pages/simple-landing-page/Data/Promo CTA 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a40458d0-9bbd-46e9-ab63-8509a9e720c4"

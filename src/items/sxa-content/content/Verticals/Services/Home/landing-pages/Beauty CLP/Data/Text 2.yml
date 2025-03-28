@@ -1,0 +1,22 @@
+﻿---
+ID: "a3c72b6b-2288-4477-b072-d62f4904e7f9"
+Parent: "4ef43bb6-d2d0-4514-bed1-4c0e5ca3b9a0"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/Verticals/Services/Home/landing-pages/Beauty CLP/Data/Text 2"
+BranchID: "67689c8f-b1fb-4902-a51d-9c3ad530c7fa"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{23818A35-F5E4-4C81-8208-2BC92802E384}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p>Ability to put themselves in the merchant's shoes. It is meant to partner on the long run, and work as an extension of the merchant's team. A digital agency is a business you hire to outsource your digital marketing efforts, instead of handling in-house.&nbsp;</p><p>They can provide your business with a variety of digital solutions to promote your product or service online and help you.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e34e139-5982-40e3-bdfe-66543317936a"

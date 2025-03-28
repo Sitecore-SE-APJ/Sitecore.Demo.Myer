@@ -1,0 +1,18 @@
+﻿---
+ID: "4ef43bb6-d2d0-4514-bed1-4c0e5ca3b9a0"
+Parent: "ab83103f-02fe-45d4-a204-89e1bebe9f25"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/Services/Home/landing-pages/Beauty CLP/Data"
+BranchID: "67689c8f-b1fb-4902-a51d-9c3ad530c7fa"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A0EEF70A-7B94-4D88-A8F6-84B4CC41890B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f8a647a-f1b5-4b87-9499-ab1155d77be4"

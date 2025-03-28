@@ -1,0 +1,26 @@
+﻿---
+ID: "f6acd4e9-379e-4ada-a733-3f7fc4fac461"
+Parent: "4ef43bb6-d2d0-4514-bed1-4c0e5ca3b9a0"
+Template: "0089bcb3-0117-43f2-a760-0771d5ff7417"
+Path: "/sitecore/content/Verticals/Services/Home/landing-pages/Beauty CLP/Data/HeroBanner 1"
+BranchID: "67689c8f-b1fb-4902-a51d-9c3ad530c7fa"
+SharedFields:
+- ID: "5a8416e1-a058-47d2-96df-69d2a08e69fc"
+  Hint: Image
+  Value: |
+    <image mediaid="e74e0623-a9ff-4833-9968-14d55a05db5f" />
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4B8127E7-174C-41D9-B3C7-AFF753679E67}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e25a144-5899-4c7e-b0b8-d7209cd76d27"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p>Play! Agency provides a full service range including technical skills, design, business understanding.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d78da24-d4e6-4bc0-9bf8-c753cb64c359"

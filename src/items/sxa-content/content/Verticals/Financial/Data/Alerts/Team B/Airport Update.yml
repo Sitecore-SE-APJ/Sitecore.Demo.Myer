@@ -1,0 +1,24 @@
+﻿---
+ID: "8b37c0f0-70e1-44b0-b29b-8f833626807d"
+Parent: "03c5769c-1218-43aa-8f44-d60105a4ce27"
+Template: "2bed7393-6803-4734-beaa-4d93ba89af3c"
+Path: /sitecore/content/Verticals/Financial/Data/Alerts/Team B/Airport Update
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "33e463a0-ef49-4e05-a154-f5c6ff0da428"
+      Hint: AlertDate
+      Value: 20250311T000000Z
+    - ID: "8247f311-c5bb-433f-bc6d-45174c1f0c36"
+      Hint: AlertText
+      Value: |
+        <p><span style="color: #202122; background-color: #ffffff;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p>
+        <p><span style="color: #202122; background-color: #ffffff;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e246e9d-b242-4084-ad1f-3de3568d1008"
+    - ID: "945849a8-c359-450e-9e6b-329397106507"
+      Hint: AlertTitle
+      Value: Airport Update

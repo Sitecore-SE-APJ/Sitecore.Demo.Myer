@@ -1,0 +1,24 @@
+﻿---
+ID: "95810327-25b5-48e5-85bc-090edc8ddb61"
+Parent: "433448d9-00c7-4e1e-b26d-2a8c74525f45"
+Template: "2bed7393-6803-4734-beaa-4d93ba89af3c"
+Path: /sitecore/content/Verticals/Financial/Data/Alerts/Team A/Critical Alert
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "33e463a0-ef49-4e05-a154-f5c6ff0da428"
+      Hint: AlertDate
+      Value: 20250320T000000Z
+    - ID: "8247f311-c5bb-433f-bc6d-45174c1f0c36"
+      Hint: AlertText
+      Value: |
+        <p><span style="color: #202122; background-color: #ffffff;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p>
+        <p><span style="color: #202122; background-color: #ffffff;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bf95b6ba-bf64-4155-81af-b9452d42ac26"
+    - ID: "945849a8-c359-450e-9e6b-329397106507"
+      Hint: AlertTitle
+      Value: Critical Travel Update

@@ -1,0 +1,13 @@
+﻿---
+ID: "03c5769c-1218-43aa-8f44-d60105a4ce27"
+Parent: "77a44b4d-11e1-4d76-baf5-86a6f550fbb3"
+Template: "7e0e08d9-41dc-4c8a-82bf-36fea82557b6"
+Path: /sitecore/content/Verticals/Financial/Data/Alerts/Team B
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b8ae78f-d983-4ee6-956b-c4e22b894733"

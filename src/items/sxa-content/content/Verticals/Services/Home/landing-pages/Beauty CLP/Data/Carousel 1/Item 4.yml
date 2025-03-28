@@ -1,0 +1,13 @@
+﻿---
+ID: "b1edab79-b721-4f13-9a44-7b8a2b547eea"
+Parent: "a03f4e2e-321c-4af4-80b2-14d8b5155900"
+Template: "54db209d-cd0f-49d9-ae4e-ecb65d72cc4d"
+Path: "/sitecore/content/Verticals/Services/Home/landing-pages/Beauty CLP/Data/Carousel 1/Item 4"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc489d25-98dc-4830-88bd-42b35634fc4b"

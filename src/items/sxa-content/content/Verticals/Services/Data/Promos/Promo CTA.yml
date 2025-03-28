@@ -1,8 +1,8 @@
 ﻿---
-ID: "bb81a942-713a-4da1-ab8e-e6d504899ed3"
-Parent: "e80b2eb2-f3c4-4c86-b76c-041808116d0e"
+ID: "9cfe2775-78f7-49de-b2fc-d101e1a5bc45"
+Parent: "e092e42a-0c56-420a-88f4-cfa09cde2949"
 Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
-Path: /sitecore/content/Verticals/Financial/Data/Promos/Promo CTA
+Path: /sitecore/content/Verticals/Services/Data/Promos/Promo CTA
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters

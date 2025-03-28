@@ -1,0 +1,13 @@
+﻿---
+ID: "8eadc4f1-ffac-4819-9a8a-b4fac64ba2da"
+Parent: "4ef43bb6-d2d0-4514-bed1-4c0e5ca3b9a0"
+Template: "1b694ef9-154d-429a-9c3f-d7774cd4a852"
+Path: "/sitecore/content/Verticals/Services/Home/landing-pages/Beauty CLP/Data/Four Column CTA 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75dd70b3-760d-4a7e-bdf9-e0aa9533263b"

@@ -1,0 +1,22 @@
+﻿---
+ID: "084cb872-2171-4caa-954c-ec97245e5202"
+Parent: "7759a407-c482-476b-83d9-9e37d7dbf34c"
+Template: "d885df8c-b2d6-4007-b34b-2bbafb527304"
+Path: "/sitecore/content/Verticals/Services/Home/landing-pages/Beauty CLP/Data/Image Gallery 1/Image 3"
+BranchID: "373c596c-ef71-41be-9c6c-348ae3c40cf5"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{3DACF997-08EE-415B-9B84-990E25913B9F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
+      Hint: Image
+      Value: |
+        <image mediaid="{21831EBB-9058-44D6-AEBC-93FB88D3A0E8}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "333b74c0-5361-4155-ba26-c9914e3a59a1"

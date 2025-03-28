@@ -19,10 +19,7 @@ Languages:
     - ID: "24fe8274-d95f-439f-9aeb-6c240759ab6b"
       Hint: Text1
       Value: |
-        <p><a href="~/link.aspx?_id=FB70CB0102FD4E6CA4326BE3D537019D&amp;_z=z">Our story</a></p>
-        <p><a href="~/link.aspx?_id=B6E8084AE0E24B2EBBB911222EDF6B35&amp;_z=z">Benefits &amp; services</a></p>
-        <p><a href="~/link.aspx?_id=FFEA8CA4CF8C453A9F7D49D6E60EEA5D&amp;_z=z">Portfolio</a></p>
-        <p><a href="~/link.aspx?_id=D4713FC099044458B6BD938E362F489B&amp;_z=z">Blog</a></p>
+        <div class="ck-content"><p><a href="~/link.aspx?_id=FB70CB0102FD4E6CA4326BE3D537019D&amp;_z=z">Our story</a></p><p><a href="~/link.aspx?_id=B6E8084AE0E24B2EBBB911222EDF6B35&amp;_z=z">Benffdfdefits &amp; services</a></p><p><a href="~/link.aspx?_id=FFEA8CA4CF8C453A9F7D49D6E60EEA5D&amp;_z=z">Portfolio</a></p><p><a href="~/link.aspx?_id=D4713FC099044458B6BD938E362F489B&amp;_z=z">Blog</a></p></div>
     - ID: "342fb66b-0e4b-419d-ba86-2355e33ee1bf"
       Hint: Title1
       Value: Menu
@@ -42,7 +39,7 @@ Languages:
         <link linktype="external" url="https://www.sitecore.com/legal" target="" text="Terms of Use" title="" class=""/>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "43de60f4-3ec1-4b62-89f9-54f91fa69d1b"
+      Value: "e8308931-7bf3-4bac-85a2-68f1d2cc173f"
     - ID: "92612ddf-b3fd-4597-a655-de6da2eb553f"
       Hint: Text3
       Value: 

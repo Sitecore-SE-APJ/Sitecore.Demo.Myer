@@ -1,0 +1,22 @@
+﻿---
+ID: "57d4cf53-3d96-469a-a263-2470d0d0316c"
+Parent: "4ef43bb6-d2d0-4514-bed1-4c0e5ca3b9a0"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/Verticals/Services/Home/landing-pages/Beauty CLP/Data/Text 1"
+BranchID: "67689c8f-b1fb-4902-a51d-9c3ad530c7fa"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DE78E01E-E591-45C3-960C-71A44F380683}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><h1>An Experience Design Service</h1></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "415e5610-05c7-40bd-b670-dc2ca775d3fc"

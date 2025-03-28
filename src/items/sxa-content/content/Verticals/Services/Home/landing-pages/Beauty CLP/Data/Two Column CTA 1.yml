@@ -1,0 +1,13 @@
+﻿---
+ID: "5462df03-9f4e-455c-a91c-3d75d9aee28a"
+Parent: "4ef43bb6-d2d0-4514-bed1-4c0e5ca3b9a0"
+Template: "1812bf3e-6bdd-466d-99b2-0d7cebb020fc"
+Path: "/sitecore/content/Verticals/Services/Home/landing-pages/Beauty CLP/Data/Two Column CTA 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "abc66ef6-2db7-4a4f-b3cb-57d939e7d0b4"
